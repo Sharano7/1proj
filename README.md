@@ -1,1 +1,1 @@
-# 1proj
+simple project to verify account ui
